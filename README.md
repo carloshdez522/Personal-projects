@@ -1,7 +1,7 @@
 # Personal Projects 
 
 Welcome! Here you will find a list of my personal projects I have been working on. Each project includes a brief description and links to explore more details.
----
+
 ## List of Projects
 
 ### [**Business Simulation**](https://github.com/carloshdez522/Personal-projects/tree/main/Business%20Simulation)
