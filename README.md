@@ -8,6 +8,10 @@ Welcome! Here you will find a list of my personal projects I have been working o
 
 - **Description:** This Python simulation project models and analyzes the operation of a souvenir store using advanced variance reduction techniques. It simulates the arrival of groups of tourists, their tour through the store, the payment process and their exit, with the objective of evaluating and optimizing the operation of the business.
 
+### [**Happy or Sad**](https://github.com/carloshdez522/Personal-projects/tree/main/Happy%20or%20Sad)
+
+- **Description:** This project demonstrates the potential of convolutional neural networks (CNNs) in image classification tasks. Specifically, a CNN-based model is developed to classify images of people into two categories
+
 ### [**Liver Cirrhosis Stage Classification**](https://github.com/carloshdez522/Personal-projects/tree/main/Liver%20Cirrhosis%20Stage%20Classification)
 
 - **Description:** This project uses machine learning techniques to predict the stage of liver cirrhosis, demonstrating how machine learning can contribute significantly to the field of medicine.
